@@ -28,8 +28,7 @@ The same trip duration data was split by gender. Some of the rental information 
 The peak hours visualization shows that the busiest hours for checkout tend to be in the evening (5 p.m. and 6 p.m.) as well as in the morning just before the workday at 8 a.m. 
 ![Alt Text](https://github.com/lyanneagger/bikesharing/blob/main/Resources/peak_hours.png)
 The filter for day has been included in this visualization because the data shows very different trends from weekends to work days. If Sunday and Saturday are removed, the morning and evening rush hour trends become stronger. If only Saturday and Sunday are checked, the trend changes greatly to show busy hours from 11 a.m. to 6 p.m.</br>
-![Alt Text](https://github.com/lyanneagger/bikesharing/blob/main/Resources/peak_hours_weekday.png)
-![Alt Text](https://github.com/lyanneagger/bikesharing/blob/main/Resources/peak_hours_weekend.png)</br>
+![Alt Text](https://github.com/lyanneagger/bikesharing/blob/main/Resources/peak_hours_weekday.png)![Alt Text](https://github.com/lyanneagger/bikesharing/blob/main/Resources/peak_hours_weekend.png)</br>
 
 #### Trips by Weekday per Hour
 The trips by weekday per hour reinforce the August peak hours visualization, further breaking down each day to show darker red during morning and evening rush hours. The busiest day is Thursday from 5 p.m. and 6 p.m., with a bit of a comparitive lull on Wednesday nights. Again, the filter for day was added to better see week day commutes compared to steady weekend traffic.
