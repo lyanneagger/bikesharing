@@ -53,4 +53,4 @@ Despite New York's large numbers of tourists, the overwhelming number of subscri
 
 Some additional visualizations that may give more insight would be to compare trip duration by day (exploring work day commutes compared to weekend or evening rides) and bike utilization by number of trips and trip duration (to establish longevity of each bike). Comparing trip starting location or ending location to age may also give some information as to demographics around workplaces and offices vs. schools or college campuses. It would also be helpful to compare different data sets throughout the year to examine how weather affects usage patterns.
 
-[Click here for NYC Citibike Analysis](https://public.tableau.com/app/profile/ly.agger/viz/NYC_Citibike_Challenge_Story/NYCCitibikeAnalysis?publish=yes)
+[Click here for NYC Citibike Analysis in Tableau](https://public.tableau.com/app/profile/ly.agger/viz/NYC_Citibike_Challenge_Story/NYCCitibikeAnalysis?publish=yes)
